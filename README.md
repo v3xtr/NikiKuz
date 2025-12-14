@@ -13,6 +13,7 @@
 
 ### 🛡 TryHackMe
 ![](https://tryhackme-badges.s3.amazonaws.com/v3xtr.png)
+
 **Top 9% worldwide**
 
 # 💻 Tech Stack:
@@ -33,9 +34,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake-dark.svg" />
 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake.svg" />
-</picture>
 
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake.svg" />
