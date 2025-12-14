@@ -38,4 +38,4 @@
 
 </picture>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3781918" style='border:none;'></iframe>
+![tryhackme stats](https://raw.githubusercontent.com/v3xtr/v3xtr/master/assets/thm_propic.png)
