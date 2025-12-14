@@ -37,5 +37,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake.svg" />
 
 </picture>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3781918" style='border:none;'></iframe>
 
